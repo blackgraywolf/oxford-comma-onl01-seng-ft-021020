@@ -1,3 +1,5 @@
 def oxford_comma(array)
- save = array.last()
+ save = "and "array.last
+ array.pop
+ 
 end
